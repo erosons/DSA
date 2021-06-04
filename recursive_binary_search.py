@@ -16,8 +16,8 @@ def verify(result):
     print("Target found", result)
 
 
-number = [x for x in range(10)]
+number = [x for x in range(100)]
 
 
-result = recursive_binary_search(number, 7)
+result = recursive_binary_search(number,90)
 verify(result)
