@@ -39,9 +39,10 @@ Are set of step/approach used to solve particular task/problem
 	- Step:7 The final output an algorithm must be consistent each time it is rerun {for different same input scenario} -> this makes the algorithm 
 	
 	
-### Business Case: Linear Search
+### Business Case: Linear Search  
 ----------------------------------
-	
+	Linear Equation time = aX+b 
+
    - Step1: I am searching for a number 10 in the range of 1-10 
 
    - Step2: input 1 and 10  to output 10
