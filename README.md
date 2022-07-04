@@ -1,15 +1,15 @@
 
 ### Data Structure is driven by
-  - Big O notation is an algebraic way to express Space and time complexity of a programming process
-  - Big O - Is used to understand time and space complexity , when comparing algorithm that solves the same problem.
-  - O(n) This is a notation to define complexity: O-> Order of magnitude of complexity  (n) -> A function of the size and time
-  - Data structure and Algorithm  practice codes www.AlgoExpert.io
+   -  Big O notation is an algebraic way to express Space and time complexity of a programming process
+   -  Big O - Is used to understand time and space complexity , when comparing algorithm that solves the same problem.
+   -  O(n) This is a notation to define complexity: O-> Order of magnitude of complexity  (n) -> A function of the size and time
+   -  Data structure and Algorithm  practice codes www.AlgoExpert.io
 
   
   
 ### Algorithm 
-
-are set of step/approach used to solve particular task/problem
+---------------
+Are set of step/approach used to solve particular task/problem
 
   Key Components that defined good Algorithm.
 
@@ -40,6 +40,7 @@ are set of step/approach used to solve particular task/problem
 	
 	
 ### Business Case: Linear Search
+----------------------------------
 	
    - Step1: I am searching for a number 10 in the range of 1-10 
 
@@ -55,6 +56,7 @@ are set of step/approach used to solve particular task/problem
 	
 
 ### Business Case :Binary Search
+----------------------------------
 
 The input list of must have been sorted values and the output is position of the final value in the sorted list 
 The Binary Search use a binarily divide mechanism and evaluate the target value against the binary value
