@@ -4,7 +4,7 @@
    -  Big O - Is used to understand time and space complexity , when comparing algorithm that solves the same problem.
    -  O(n) This is a notation to define complexity: O-> Order of magnitude of complexity  (n) -> A function of the size and time
    -  Data structure and Algorithm  practice codes www.AlgoExpert.io
-
+<img height="250" src="https://github.com/erosons/DSA/blob/main/images/1636528337192.png" />
   
   
 ### Algorithm 
@@ -52,7 +52,7 @@ Are set of step/approach used to solve particular task/problem
       - Algorithm approach : Linear search in ascending order.
       - Starting with 1, This means that my search will linearly go from 1 until it  get  to the final value 10
      
-   <img  height="250" src="https://github.com/erosons/DSA/blob/main/constant%20time.png" />
+   <img  height="250" src="https://github.com/erosons/DSA/blob/main/images/hqdefault.jpg" />
 
 	
 
