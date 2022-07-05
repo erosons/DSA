@@ -1,3 +1,6 @@
+#========
+#Big O(n) as data increases  directly proportional to time increase
+#========
 def linear_search(list, targetvalue):
     """
     Return an index postion of a target value from linear search
